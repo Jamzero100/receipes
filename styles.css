@@ -15,14 +15,16 @@ h1{
     border: 1px solid;
     border-radius: 8px;
     padding: 5px;
-    object-fit: cover;
     width: 250%;
-    
+}
 
+.recipe{
+    width:fit-content;
+    height: auto;
+    object-fit: cover;
 }
 
 .content {
-background-color: ;
 text-align: center;
 border-color: black;    
 }
