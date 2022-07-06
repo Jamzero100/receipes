@@ -1,0 +1,28 @@
+
+.header-container{
+    background-color: beige;
+    word-spacing: 20px;
+    align-items: right;
+    border: 1px solid;
+}
+
+h1{
+    text-align: center;
+}
+
+.title-pic{
+    align-items: center;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px;
+    object-fit: cover;
+    width: 250%;
+    
+
+}
+
+.content {
+background-color: ;
+text-align: center;
+border-color: black;    
+}
