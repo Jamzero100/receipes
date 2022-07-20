@@ -10,17 +10,25 @@ h1{
     text-align: center;
 }
 
+body{
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: auto;
+
+}
+
 .title-pic{
     align-items: center;
     border: 1px solid;
     border-radius: 8px;
     padding: 5px;
     width: auto;
+    height:450px;
 }
 
 .recipe{
     width: 100%;
-    height: auto;
+    height: 450px;
     object-fit: cover;
 }
 
